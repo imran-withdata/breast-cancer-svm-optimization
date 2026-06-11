@@ -1,0 +1,13 @@
+# Google Colab / Jupyter Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.virtual_documents/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Data files (removes large datasets from tracking)
+# Delete these lines if you want to upload your CSV file to GitHub
+*.csv
+*.xlsx
